@@ -1,14 +1,8 @@
 ### Hi there 👋
 
-### Test
+I'm a Software Developer, currently working with .Net Core and ASP.Net Core applications.
 
-Software Developer, currently working with .Net Core and ASP.Net Core applications.
-
-I really enjoy learning about code architeture and best practices. Eg: DDD and SOLID.
-
-Besides technologies, I like dogs, raining days and progressive rock! 
-
-
+I like to learn and teach others. Besides technologies, I like dogs, raining days and progressive rock! 
 
 <!--
 **igorthebarros/igorthebarros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
