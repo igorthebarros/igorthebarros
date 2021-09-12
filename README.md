@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-I'm a Software Developer, currently working with .Net Core and ASP.Net Core applications.
+I'm a Software Developer from Brazil, currently working with .Net Core and ASP.Net Core applications.
 
-Those who know, do.
-Those that understand, teach.
+I enjoy study and debate about DDD and design patterns.
 
 <!--
 **igorthebarros/igorthebarros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
