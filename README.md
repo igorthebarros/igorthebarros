@@ -2,7 +2,7 @@
 
 I'm a Software Developer from Brazil, currently working with .Net Core and ASP.Net Core applications.
 
-I enjoy study and debate about DDD and design patterns.
+I enjoy study and debate about applications performance and design patterns.
 
 <!--
 **igorthebarros/igorthebarros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
