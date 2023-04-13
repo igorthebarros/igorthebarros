@@ -1,9 +1,12 @@
 ### Hi there 👋
 
-I'm a Software Developer from Brazil, currently working with .Net Core and ASP.Net Core applications.
+I'm a Full Stack Software Engineer from Brazil and I work with C#, Golang, Javascript, Angular, .Net Core and ASP.Net Core applications.
 
-I enjoy study and debate about applications performance and design patterns.
+I enjoy teaching others how to code.
 
+I like to talk about applications performance and design patterns.
+
+Reach me on: 1igorhbarros@gmail.com
 <!--
 **igorthebarros/igorthebarros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
