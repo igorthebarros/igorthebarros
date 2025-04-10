@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-I'm a Full Stack Software Engineer from Brazil and I work with C#, Golang, Javascript, Angular, .Net Core and ASP.Net Core applications.
+I'm a Full Stack Software Engineer from Brazil. My favorite language and framework are C# and .Net.
 
-I enjoy teaching others how to code.
-
-I like to talk about applications performance and design patterns.
+I enjoy teaching others how to code and I like to discuss about design patterns and clean code.
 
 Reach me on: 1igorhbarros@gmail.com
 <!--
