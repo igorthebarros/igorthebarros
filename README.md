@@ -2,7 +2,7 @@
 
 I'm a Full Stack Software Engineer from Brazil. My favorite language and framework are C# and .Net.
 
-I enjoy teaching others how to code and I like to discuss about design patterns and clean code.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=igorthebarros&layout=compact&theme=tokyonight)
 
 Reach me on: 1igorhbarros@gmail.com
 <!--
